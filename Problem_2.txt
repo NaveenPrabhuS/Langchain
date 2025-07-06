@@ -1,0 +1,14 @@
+AI Resume Analysis Chat - Coding Assessment 2 [30-40 mins]
+ 
+Develop a Streamlit app that allows users to:
+Upload multiple resumes (PDF/Word).
+Chat with an AI to analyze and compare resumes.
+Use RAG (Retrieval-Augmented Generation) to fetch relevant resume details in responses.
+ 
+Evaluation Criteria :
+Upload and process multiple resumes (PDF/Word).
+Extract and store resume text for querying.
+RAG-based chatbot to answer questions about resumes.
+AI-generated candidate summaries and insights.
+Bonus: Implement ranking to identify the best-fit candidate for a given role.
+

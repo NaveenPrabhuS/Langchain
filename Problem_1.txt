@@ -1,0 +1,17 @@
+AI Resume Validator - Coding Assessment 1 [20-30 mins]
+Develop a Flask-based web application API where users upload their resume and enter job details. 
+The system will use an LLM to validate if the resume matches the job description.
+ 
+Develop a simple Flask web form API/HTML Page where users can input:
+Job Description
+Upload Resume [PDF/Word]
+On submission, the form should send the details to a Flask API endpoint (/validate_resume).
+Evaluate the resume against JD using LLM [ Ollama, OpenAI, or Hugging Face ].
+Generate a match score (0-100%) and with detailed feedback.
+ 
+Evaluation Criteria : 
+Basic UI/API Implementation
+Resume Text Extraction
+LLM API Integration
+Match Score Calculation & Feedback
+Bonus: HTML Page for form upload
